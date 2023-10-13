@@ -3,8 +3,7 @@ Parkinson’s disease is a progressive disorder of the central nervous system af
 The dataset has 24 columns and 195 records and is only 39.7 KB, we can get the dataset through kaggle.
 
 Steps to implement in the project are :- 
-1. we need to import te dependencies
-   
+1. we need to import te dependencies  
 2.Data Collection and Analysis
 3.We need to label the data 
 4. Data Pre-Processing
