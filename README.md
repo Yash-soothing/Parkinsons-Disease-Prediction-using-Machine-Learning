@@ -4,6 +4,7 @@ The dataset has 24 columns and 195 records and is only 39.7 KB, we can get the d
 
 Steps to implement in the project are :- 
 1. we need to import te dependencies
+   
 2.Data Collection and Analysis
 3.We need to label the data 
 4. Data Pre-Processing
